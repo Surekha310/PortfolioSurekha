@@ -246,12 +246,7 @@ export const projects = [
         linkedin: "https://www.linkedin.com/in/surekha-yerrabatti3260/",
         github: "https://github.com/surekha2351",
       },
-      {
-        name: "Yugandhar Naik",
-        img: "https://avatars.githubusercontent.com/u/121966848?v=4",
-        linkedin: "https://www.linkedin.com/in/anji-naik/",
-        github: "https://github.com/YugandharNaik22/",
-      },
+      
    
     ],
   },
@@ -283,40 +278,7 @@ export const projects = [
     webapp: "https://text-searchh.vercel.app/",
    
   },
-  {
-    id: 3,
-    title: "My Portfolio",
-    date: "Jul 2023 - Jul 2023Jul",
-    description:
-      "Engineered a responsive web portfolio using React JS, Bootstrap, and CSS, creating a dynamic showcase of professional achievements.",
-    image:
-      "https://res.cloudinary.com/drdjty87p/image/upload/v1780635656/Screenshot_2026-06-05_103026_f2dgtv.png",
-    tags: [
-      "HTML5",
-      "React Js",
-      "Node Js",
-      "Express Js",
-     
-    ],
-    category: "web app",
-    github: "https://github.com/surekha2351/Portfolio",
-    webapp: "https://portfolio-wine-pi-64.vercel.app/",
-    member: [
-        {
-        name: "Surekha Yerrabatti",
-        img: "https://avatars.githubusercontent.com/u/121850070?v=4",
-        linkedin: "https://www.linkedin.com/in/surekha-yerrabatti3260/",
-        github: "https://github.com/surekha2351",
-      },
-      {
-        name: "Yugandhar Naik",
-        img: "https://avatars.githubusercontent.com/u/121966848?v=4",
-        linkedin: "https://www.linkedin.com/in/anji-naik/",
-        github: "https://github.com/YugandharNaik22/",
-      },
-    
-    ],
-  },
+  
   {
     id: 4,
     title: "Diwali Card",
@@ -350,12 +312,7 @@ export const projects = [
         linkedin: "https://www.linkedin.com/in/surekha-yerrabatti3260/",
         github: "https://github.com/surekha2351",
       },
-      {
-        name: "Yugandhar Naik",
-        img: "https://avatars.githubusercontent.com/u/121966848?v=4",
-        linkedin: "https://www.linkedin.com/in/anji-naik/",
-        github: "https://github.com/YugandharNaik22/",
-      },
+     
      
     ],
   },
