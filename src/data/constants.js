@@ -239,16 +239,7 @@ export const projects = [
     category: "web app",
     github: "https://github.com/surekha2351/food.git",
     webapp: "https://fooddeliveryapp-2bcff.web.app/",
-    member: [
-         {
-        name: "Surekha Yerrabatti",
-        img: "https://avatars.githubusercontent.com/u/121850070?v=4",
-        linkedin: "https://www.linkedin.com/in/surekha-yerrabatti3260/",
-        github: "https://github.com/surekha2351",
-      },
-      
    
-    ],
   },
   {
     id: 1,
@@ -305,16 +296,8 @@ export const projects = [
     category: "web app",
     github: "https://github.com/surekha2351/personal-bank.git",
     webapp: "https://personal-transaction-app.vercel.app/",
-    member: [
-       {
-        name: "Surekha Yerrabatti",
-        img: "https://avatars.githubusercontent.com/u/121850070?v=4",
-        linkedin: "https://www.linkedin.com/in/surekha-yerrabatti3260/",
-        github: "https://github.com/surekha2351",
-      },
-     
-     
-    ],
+   
+   
   },
   {
     id: 6,

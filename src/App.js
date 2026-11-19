@@ -35,7 +35,7 @@ function App() {
 
   return (
     <ThemeProvider theme={darkMode ? darkTheme : lightTheme}>
-      {/* basename add chesam, idi GitHub Pages kosam */}
+      {/* idi GitHub Pages kosam */}
       <Router basename="/PortfolioSurekha">
         <Navbar />
         <Body>
